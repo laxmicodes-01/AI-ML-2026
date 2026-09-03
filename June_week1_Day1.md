@@ -108,3 +108,33 @@ Output:
 8
 
 Time Complexity: O(n)
+
+# DSA Day 1
+
+## Arrays
+- Traversal
+- Maximum
+- Minimum
+- Second largest
+- Sum
+
+## HashMap
+- Python dict
+- Stores key-value pairs
+- Useful for frequency counting
+
+## HashSet
+- Python set
+- Stores unique values
+- Useful for duplicate detection
+
+## Complexity
+- Array access → O(1)
+- Array traversal → O(n)
+- HashMap lookup → O(1) average
+- HashSet lookup → O(1) average
+
+## LeetCode
+- 217 Contains Duplicate
+- 242 Valid Anagram
+- 383 Ransom Note
