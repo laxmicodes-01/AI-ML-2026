@@ -24,3 +24,26 @@
 ## New Pattern
 - Build Frequency Map
 - Traverse Again
+
+
+# DSA Day 2
+
+## Strings
+- Strings are immutable
+- Indexing
+- Traversal
+- Slicing
+- Palindrome using s[::-1]
+
+## HashMap
+- Frequency counting
+- Key-value pairs
+- Lookup is O(1) average
+
+## Important Pattern
+Frequency map + second traversal
+= useful for finding unique/frequent characters
+
+## LeetCode
+- 387 First Unique Character
+- 771 Jewels and Stones
