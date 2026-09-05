@@ -31,3 +31,23 @@ LeetCode
 Best Time to Buy and Sell Stock → Find the maximum profit from one buy and one sell.
 Valid Anagram → Check if two strings contain the same characters with the same frequencies.
 Majority Element → Find the element that appears more than n/2 times.
+
+# DSA Day 3
+
+## Strings
+- Traversal
+- Indexing
+- Slicing
+- Palindrome using s[::-1]
+
+## HashMap
+- Frequency counting
+- Key-value pairs
+- O(1) average lookup
+
+## Important Pattern
+Frequency Map + Second Traversal
+
+## LeetCode
+- 387 First Unique Character
+- 771 Jewels and Stones
